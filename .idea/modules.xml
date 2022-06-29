@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-RestTemplate.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-RestTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-webapp/spring-demo-webapp.iml" filepath="$PROJECT_DIR$/spring-demo-webapp/spring-demo-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-resttemplate-client-app/spring-resttemplate-client-app.iml" filepath="$PROJECT_DIR$/spring-resttemplate-client-app/spring-resttemplate-client-app.iml" />
+    </modules>
+  </component>
+</project>
